@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @MEGHANA-M-L
-- 👀 I’m interested in CODING
-- 🌱 I’m currently learning C programming
-- 💞️ I’m looking to collaborate on mini projects
-- 📫 How to reach me ...whatsapp me on 6304088712
--sorry to say that i am beginner ....anyone interested to teach me can message me and i am sure that i can learn much from you...if u help me
+- 👀 I’m a coding enthusiast
+- 🌱 I’m currently programming in cpp and well versed with oops 
+- 💞️ I’m looking to collaborate on  projects
+
 
 <!---
 MEGHANA-M-L/MEGHANA-M-L is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
